@@ -3,7 +3,6 @@ from binance.client import Client
 from binance import BinanceSocketManager
 from pandas._config import config
 from config import Keys
-
 import config
 import pandas as pd
 import sqlalchemy
