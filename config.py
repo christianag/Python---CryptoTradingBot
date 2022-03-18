@@ -2,4 +2,4 @@
 
 class Keys:
     apiKey = "BinanceKey"
-    apiSecret="BinanceSecret"
+    apiSecret = "BinanceSecret"
